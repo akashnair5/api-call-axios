@@ -76,29 +76,29 @@ const CompA = () => {
   </div>
   </div>
 
- <div className = 'section'>
-  <div className = 'content'>
-    <p className = 'para'> <b>Positive quotes to replace your negative thoughts.</b> </p>
-    <ul>
-      <li>
-      Once you replace negative thoughts with positive ones, you’ll start having positive results –Willie Nelson.
-      </li>
-      <li>
-      Few things in the world are more powerful than a positive push. A smile.A world of optimism and hope.A ‘you can do it when things are tough.-Richard M.DeVos.
-      </li>
-      <li>
-      Live life to the fullest, focus on the positive-Matt Cameron.
-      </li>
-      <li>
-      Always turn a negative situation into a positive situation –Micheal Jordan.
-      </li>
-      <li>
-      Your smile will give you a positive countenance that will make people feel comfortable around you.-Les Brown.
-      </li>
-    </ul>
+//  <div className = 'section'>
+//   <div className = 'content'>
+//     <p className = 'para'> <b>Positive quotes to replace your negative thoughts.</b> </p>
+//     <ul>
+//       <li>
+//       Once you replace negative thoughts with positive ones, you’ll start having positive results –Willie Nelson.
+//       </li>
+//       <li>
+//       Few things in the world are more powerful than a positive push. A smile.A world of optimism and hope.A ‘you can do it when things are tough.-Richard M.DeVos.
+//       </li>
+//       <li>
+//       Live life to the fullest, focus on the positive-Matt Cameron.
+//       </li>
+//       <li>
+//       Always turn a negative situation into a positive situation –Micheal Jordan.
+//       </li>
+//       <li>
+//       Your smile will give you a positive countenance that will make people feel comfortable around you.-Les Brown.
+//       </li>
+//     </ul>
 
-  </div> 
-  </div> 
+//   </div> 
+//   </div> 
 
   <div className = "behind">
   </div>
